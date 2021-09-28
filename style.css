@@ -1,0 +1,31 @@
+h1{
+    color:#000000;
+}
+.header{
+    background-color:#9d93a6;
+    display:flex;
+    justify-content:space-around;
+    font-family:Georgia;
+}
+myimg{
+    display:flex;
+    justify-content: space-evenly
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-start;
+}
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
